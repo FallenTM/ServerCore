@@ -1,0 +1,12 @@
+name: ServerCore
+version: 1.0
+main: me.fallenspring.servercore.Main
+commands:
+  msg:
+    description: message a player
+  spawn:
+    description: Go to spawn  
+  enchant:
+    description: Enchant an item 
+  core:
+    description: Main core command   
